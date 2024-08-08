@@ -14,7 +14,9 @@
 - Clone the repository into `.config` folder :
 
 ```sh
-git clone https://github.com/RohanKP1/fastfetch-config.git .config 
+git clone https://github.com/RohanKP1/fastfetch-config.git
+cd fastfetch-config/
+mv fastfetch/ ~/.config/
 ```
 - type `fastfetch` on terminal.
 
